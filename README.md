@@ -1,2 +1,2 @@
-# exper_02sm
+# exper_02smp
 
